@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.react {
+  color: #00D8FF;
+  width: 27.69px;
+  height: 30px;
+  margin-top: 31px;
+  margin-left: 26px;
+ 
+
+}
+
+.nav-facts {
+  color: #61DAFB;
+  font-family: Inter,sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22.2535px;
+  line-height: 27px;
+  letter-spacing: -0.05em;
+  margin-bottom: 37.75px;
+  margin-top: 31px;
+  margin-left: 6.68px;
+  
+  
+}
+
+.project {
+  color: #DEEBF8;
+  font-family: Inter,sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: right; 
+  width: 259px;
+  height: 21px;
+  margin-left: 80px;
+  margin-top: 38px;
+  margin-bottom: 32px;
+  margin-right: 27px;
+}
+
+.navbar-container {
+  background: #21222A;
+  display: flex;
+  margin: 0;
+  
+}
+
+.main-facts {
+  color: #FFFFFF;
+  width: 424px;
+  height: 41px;
+  margin-left: 27px;
+  margin-right: 99px;
+  margin-top: 57px;
+  margin-bottom: 46px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39.06px;
+  line-height: 47px;
+  letter-spacing: -0.05em;
+}
+
+
+.bullet-points > li {
+  color: #FFFFFF;
+  width: 390px;
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  padding-block: 10px;
+  max-width: 400px;
+  margin-left: 13.39px;
+}
+
+.bullet-points > li::marker{
+  color: #61DAFB;
+  width: 9.61px;
+  margin-right: 13.39px;
+  margin-left: 51px;
+}
+
+main {
+  background-color: #282D35;
+  width: 550px;
+  height: 459px;
+  left: 0px;
+  top: 91px;
+  position: absolute;
+  background-image: url(./react-icon-large.png);
+  background-repeat:no-repeat;
+  background-position: right 75%;
+
+}
