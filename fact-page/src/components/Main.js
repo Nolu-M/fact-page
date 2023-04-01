@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function Main() {
     return (
-        <main background-image="react-icon-large.png" alt="background react image">
+        <main background-image="react-icon-large.png">
             <h1 className="main-facts">Fun facts about React</h1>
             <ul className="bullet-points">
                 <li>Was first released in 2013</li>
